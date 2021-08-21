@@ -1,10 +1,10 @@
 charset,UTF-8
 type,shell
 name,standard
-
 craftman,Don
 craftmanurl,http://nikolat.herokuapp.com/
 homeurl,https://raw.githubusercontent.com/nikolat/jb-standard/main/
+readme.charset,UTF-8
 
 //バルーン位置
 sakura.balloon.offsetx,0

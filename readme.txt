@@ -1,30 +1,30 @@
 
-¡ŠT—v
+â– æ¦‚è¦
 
-  ƒS[ƒXƒguXBARIBARIv—p’Ç‰ÁƒVƒFƒ‹ustandardv
+  ã‚´ãƒ¼ã‚¹ãƒˆã€Œé›€ã€…BARIBARIã€ç”¨è¿½åŠ ã‚·ã‚§ãƒ«ã€Œstandardã€
 
-  XBARIBARI
+  é›€ã€…BARIBARI
     https://github.com/nikolat/jong-bari
 
-¡ƒ‰ƒCƒZƒ“ƒX
+â– ãƒ©ã‚¤ã‚»ãƒ³ã‚¹
 
- ˆÈ‰º‚ÌƒTƒCƒg‚Å”z•z‚³‚ê‚Ä‚¢‚é”v‰æ‘œ‚ð‰ÁH‚µ‚ÄŽg—p‚µ‚Ä‚¨‚è‚Ü‚·B
+â–¡ä»¥ä¸‹ã®ã‚µã‚¤ãƒˆã§é…å¸ƒã•ã‚Œã¦ã„ã‚‹ç‰Œç”»åƒã‚’åŠ å·¥ã—ã¦ä½¿ç”¨ã—ã¦ãŠã‚Šã¾ã™ã€‚
 
-  –ƒ“¤•…
+  éº»é›€è±†è…
     https://majandofu.com/mahjong-images
 
- ‰æ‘œ“à‚Ì•¶Žš‚ÉuNishiki-tekivƒtƒHƒ“ƒg‚ðŽg—p‚µ‚Ä‚¨‚è‚Ü‚·B
+â–¡ç”»åƒå†…ã®æ–‡å­—ã«ã€ŒNishiki-tekiã€ãƒ•ã‚©ãƒ³ãƒˆã‚’ä½¿ç”¨ã—ã¦ãŠã‚Šã¾ã™ã€‚
 
-  ‚É‚µ‚«“IƒtƒHƒ“ƒg - TYPVS LITTERARVM NISICIAE
+  ã«ã—ãçš„ãƒ•ã‚©ãƒ³ãƒˆ - TYPVS LITTERARVM NISICIAE
     https://umihotaru.work/
 
- ã‹LˆÈŠO‚ÌƒeƒLƒXƒgƒtƒ@ƒCƒ‹AŽ«‘ƒtƒ@ƒCƒ‹‚Ì—Þ‚¢‚É‚Â‚¢‚Ä
-  ’˜ìŽÒlŠiŒ ‚ÍDon‚É‹A‘®‚µ‚Ü‚·
+â–¡ä¸Šè¨˜ä»¥å¤–ã®ãƒ†ã‚­ã‚¹ãƒˆãƒ•ã‚¡ã‚¤ãƒ«ã€è¾žæ›¸ãƒ•ã‚¡ã‚¤ãƒ«ã®é¡žã„ã«ã¤ã„ã¦
+  è‘—ä½œè€…äººæ ¼æ¨©ã¯Donã«å¸°å±žã—ã¾ã™
 
-    ‚·‚­‚è‚â
+    ã™ãã‚Šã‚„
       http://nikolat.herokuapp.com/
 
-  ƒ‰ƒCƒZƒ“ƒX‚ÍuCC0 1.0 Universalv‚Å‚·B
+  ãƒ©ã‚¤ã‚»ãƒ³ã‚¹ã¯ã€ŒCC0 1.0 Universalã€ã§ã™ã€‚
 
     Creative Commons - CC0 1.0 Universal
       http://creativecommons.org/publicdomain/zero/1.0/
