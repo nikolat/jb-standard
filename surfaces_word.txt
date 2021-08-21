@@ -33,6 +33,10 @@ surface516
 {
 element0,base,word\kan.png,0,0
 }
+surface517
+{
+element0,base,word\touhai.png,0,0
+}
 surface.append0
 {
 animation500001.interval,never
@@ -49,6 +53,8 @@ animation500015.interval,never
 animation500015.pattern0,overlay,515,0,150,670
 animation500016.interval,never
 animation500016.pattern0,overlay,516,0,150,670
+animation500017.interval,never
+animation500017.pattern0,overlay,517,0,150,670
 animation500101.interval,never
 animation500101.pattern0,overlay,101,0,150,675
 animation500102.interval,never
